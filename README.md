@@ -7,7 +7,7 @@ its original form. This app also has some additional features such as: Given a s
 the size of its bit sequence to obtain a binary sequence that has size significantly lesser than the original, this new sequence 
 then can be sent through a network or saved in file so that it can be decompressed whenever required.
 
-How it will run, how it will work?
+How it will run, how does it work?
 
 In order to run the application, first step is to download all the project files in this branch and then put them in an appropriate folder.
 We have provided an executable .jar as well as .exe file inside the folder named "Executable" in which you will find files named "EncodorGUI.jar" and "Encoder.exe".
