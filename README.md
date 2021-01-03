@@ -17,7 +17,7 @@ Upon opening the application you will be given an option to browse a file and se
 save the compressed file. After you have done all these steps you can hit the "Compress" Button to compress your file. For further detailed instructions on how the 
 project works, you can refer to the following video:
 
-Link: ......................................
+Link: https://youtu.be/S0Wua5WxKZI
 
 Regards, 
 Ammar Ahmed, Suraksha Sadhwani, 
