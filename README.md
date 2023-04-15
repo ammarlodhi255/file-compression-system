@@ -18,7 +18,3 @@ save the compressed file. After you have done all these steps you can hit the "C
 project works, you can refer to the following video:
 
 Link: https://youtu.be/S0Wua5WxKZI
-
-Regards, 
-Ammar Ahmed, Suraksha Sadhwani, 
-Sakshi Kour.
