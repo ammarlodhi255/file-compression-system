@@ -1,4 +1,3 @@
-```markdown
 # File Compression System Using Huffman Encoding
 
 ## Table of Contents
@@ -108,4 +107,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## YouTube Video
 
 Link: [https://youtu.be/S0Wua5WxKZI](https://youtu.be/S0Wua5WxKZI)
-```
