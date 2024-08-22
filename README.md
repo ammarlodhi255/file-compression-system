@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Code and Files](#files-and-directories)
+- [Code and Files](#code-and-files)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
