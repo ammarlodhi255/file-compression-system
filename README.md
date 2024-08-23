@@ -10,8 +10,6 @@
   - [Usage](#usage)
   - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 - [YouTube Video](#youtube-video)
 
 ## Overview
@@ -94,15 +92,6 @@ If you'd like to contribute to this project, please fork the repository and use 
 3. Commit your changes.
 4. Push to the branch.
 5. Submit a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Huffman encoding algorithms were implemented based on standard algorithms and adapted for educational purposes.
-- Special thanks to the developers of the Java programming language for providing the necessary tools and frameworks.
 
 ## YouTube Video
 
